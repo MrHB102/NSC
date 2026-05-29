@@ -69,15 +69,7 @@ LLMs were used mainly as acceleration and implementation assistance tools.
 
 # Installation
 
-## NPX
-
-```bash
-npx nsc
-```
-
----
-
-## Global Install
+## Install
 
 ```bash
 npx git+https://github.com/MrHB102/NSC.git
