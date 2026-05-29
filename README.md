@@ -80,7 +80,7 @@ npx nsc
 ## Global Install
 
 ```bash
-npm install -g @nsc/core
+npx git+https://github.com/MrHB102/NSC.git
 ```
 
 Then:
