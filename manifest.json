@@ -1,0 +1,41 @@
+{
+  "name": "MetaContextOS",
+  "version": "1.0.0",
+  "agents": [
+    "claudecode",
+    "codex",
+    "openclaude",
+    "cursor",
+    "windsurf",
+    "continue",
+    "aider",
+    "openhands"
+  ],
+  "skills": [
+    "objective-first",
+    "tradeoff-analysis",
+    "system-map",
+    "legacy-safe-change",
+    "fragile-surfaces",
+    "implicit-rules",
+    "risk-register",
+    "verification-gates",
+    "multi-service-boundaries",
+    "hybrid-infra",
+    "team-memory"
+  ],
+  "core_files": [
+    "north_star.md",
+    "tradeoffs.md",
+    "system_map.md",
+    "legacy_constraints.md",
+    "fragile_zones.md",
+    "implicit_rules.md",
+    "risk_register.md",
+    "validation_contract.md",
+    "team_memory.md",
+    "change_budget.md",
+    "output_contract.md",
+    "bootstrap_prompt.md"
+  ]
+}

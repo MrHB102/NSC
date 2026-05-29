@@ -1,0 +1,5 @@
+# Runtime mínimo
+pyyaml>=6.0.1
+
+# Opcional para build local
+pyinstaller>=6.0
